@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7714eea3-84c0-4cea-afea-e52bdb1f048c" name="Changes" comment="Simple Factory" />
+    <list default="true" id="7714eea3-84c0-4cea-afea-e52bdb1f048c" name="Changes" comment="Simple Factory Static or not Static">
+      <change beforePath="$PROJECT_DIR$/src/Creational/Factory/SimpleFactory/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Factory/SimpleFactory/Client.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702588205653</updated>
-      <workItem from="1702588208789" duration="4092000" />
+      <workItem from="1702588208789" duration="4668000" />
     </task>
     <task id="LOCAL-00001" summary="Simple Factory">
       <created>1702592353383</created>
@@ -84,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702592353383</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Simple Factory Static or not Static">
+      <created>1702592549220</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702592549220</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Simple Factory" />
-    <option name="LAST_COMMIT_MESSAGE" value="Simple Factory" />
+    <MESSAGE value="Simple Factory Static or not Static" />
+    <option name="LAST_COMMIT_MESSAGE" value="Simple Factory Static or not Static" />
   </component>
 </project>

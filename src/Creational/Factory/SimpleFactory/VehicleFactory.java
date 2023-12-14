@@ -18,3 +18,8 @@ class VehicleFactory {
     }
 
 }
+/*
+* Nao necessariamente a fabrica precisa retornar os objetos, tambem
+* é aceitavel a fabrica conter os objetos, por exemplo, no construtor o tipo ja ser
+* referenciado, assim o objeto jé é criado logo de unicio... (Static or not Static)
+* */

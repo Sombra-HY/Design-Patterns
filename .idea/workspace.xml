@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7714eea3-84c0-4cea-afea-e52bdb1f048c" name="Changes" comment="Factory Method">
-      <change afterPath="$PROJECT_DIR$/src/Creational/Factory/FactoryMethod/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational/Factory/FactoryMethod/Factory Method.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational/Factory/FactoryMethod/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational/Factory/FactoryMethod/VehicleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Creational/Factory/AbstractFactory/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Creational/Factory/AbstractFactory/LuxuryVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Creational/Factory/AbstractFactory/PopularVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Creational/Factory/AbstractFactory/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Creational/Factory/AbstractFactory/VehicleFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,13 +62,26 @@
       <recent name="C:\Users\lsomb\Documents\Projetos\ProjetosJava\Testes\DesignPatterns\src\Creational\Factory\SimpleFactory" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Creational.Factory.FactoryMethod.Client">
+  <component name="RunManager" selected="Application.Creational.Factory.AbstractFactory.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Creational.Factory.FactoryMethod.SimpleFactory.Client" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Creational.Factory.FactoryMethod.SimpleFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Creational.Factory.AbstractFactory.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Creational.Factory.AbstractFactory.Client" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Creational.Factory.AbstractFactory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,6 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Creational.Factory.AbstractFactory.Client" />
         <item itemvalue="Application.Creational.Factory.FactoryMethod.Client" />
         <item itemvalue="Application.Client" />
       </list>
@@ -105,6 +120,7 @@
       <updated>1702588205653</updated>
       <workItem from="1702588208789" duration="13535000" />
       <workItem from="1702602804884" duration="1102000" />
+      <workItem from="1702850673653" duration="9509000" />
     </task>
     <task id="LOCAL-00001" summary="Simple Factory">
       <created>1702592353383</created>

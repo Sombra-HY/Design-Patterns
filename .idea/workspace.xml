@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7714eea3-84c0-4cea-afea-e52bdb1f048c" name="Changes" comment="Factory Method" />
+    <list default="true" id="7714eea3-84c0-4cea-afea-e52bdb1f048c" name="Changes" comment="Factory Method img">
+      <change afterPath="$PROJECT_DIR$/src/Creational/Singleton/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,11 +54,12 @@
       <recent name="C:\Users\lsomb\Documents\Projetos\ProjetosJava\Testes\DesignPatterns\src\Creational\Factory\FactoryMethod" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lsomb\Documents\Projetos\ProjetosJava\Testes\DesignPatterns\src\Creational\Factory\AbstractFactory" />
       <recent name="C:\Users\lsomb\Documents\Projetos\ProjetosJava\Testes\DesignPatterns\src\Creational\Factory\FactoryMethod" />
       <recent name="C:\Users\lsomb\Documents\Projetos\ProjetosJava\Testes\DesignPatterns\src\Creational\Factory\SimpleFactory" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Creational.Factory.AbstractFactory.Client">
+  <component name="RunManager" selected="Application.Creational.Singleton.Singleton.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Creational.Factory.FactoryMethod.SimpleFactory.Client" />
       <module name="DesignPatterns" />
@@ -95,8 +99,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Creational.Singleton.Singleton.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Creational.Singleton.Singleton.Client" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Creational.Singleton.Singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Creational.Singleton.Singleton.Client" />
         <item itemvalue="Application.Creational.Factory.AbstractFactory.Client" />
         <item itemvalue="Application.Creational.Factory.FactoryMethod.Client" />
         <item itemvalue="Application.Client" />
@@ -113,7 +131,7 @@
       <updated>1702588205653</updated>
       <workItem from="1702588208789" duration="13535000" />
       <workItem from="1702602804884" duration="1102000" />
-      <workItem from="1702850673653" duration="9811000" />
+      <workItem from="1702850673653" duration="14221000" />
     </task>
     <task id="LOCAL-00001" summary="Simple Factory">
       <created>1702592353383</created>
@@ -143,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702861917366</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Factory Method img">
+      <created>1702862067025</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702862067025</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +179,7 @@
     <MESSAGE value="Simple Factory Static or not Static" />
     <MESSAGE value="Problem Context" />
     <MESSAGE value="Factory Method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Factory Method" />
+    <MESSAGE value="Factory Method img" />
+    <option name="LAST_COMMIT_MESSAGE" value="Factory Method img" />
   </component>
 </project>

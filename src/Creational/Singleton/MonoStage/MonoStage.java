@@ -17,7 +17,7 @@ class Monostatege {
 }
 
 // Uso da classe Monostate
- class Main {
+class  Main {
     public static void main(String[] args) {
         Monostatege instancia1 = new Monostatege();
         Monostatege instancia2 = new Monostatege();
@@ -27,3 +27,4 @@ class Monostatege {
         System.out.println(instancia2.getValor()); // Saída será 10
     }
 }
+

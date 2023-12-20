@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7714eea3-84c0-4cea-afea-e52bdb1f048c" name="Changes" comment="MonoState">
-      <change afterPath="$PROJECT_DIR$/src/Creational/Builder/Client.java" afterDir="false" />
+    <list default="true" id="7714eea3-84c0-4cea-afea-e52bdb1f048c" name="Changes" comment="Builder">
+      <change afterPath="$PROJECT_DIR$/src/behavioral/Strategy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/Strategy/DiscountStartegy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Creational/Singleton/MonoStage/MonoStage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Singleton/MonoStage/MonoStage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +47,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -55,11 +56,11 @@
       <recent name="C:\Users\lsomb\Documents\Projetos\ProjetosJava\Testes\DesignPatterns\src\Creational\Factory\FactoryMethod" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lsomb\Documents\Projetos\ProjetosJava\Testes\DesignPatterns\src\Creational\Builder" />
       <recent name="C:\Users\lsomb\Documents\Projetos\ProjetosJava\Testes\DesignPatterns\src\Creational\Singleton\Singleton" />
       <recent name="C:\Users\lsomb\Documents\Projetos\ProjetosJava\Testes\DesignPatterns\src\Creational\Singleton" />
       <recent name="C:\Users\lsomb\Documents\Projetos\ProjetosJava\Testes\DesignPatterns\src\Creational\Factory\AbstractFactory" />
       <recent name="C:\Users\lsomb\Documents\Projetos\ProjetosJava\Testes\DesignPatterns\src\Creational\Factory\FactoryMethod" />
-      <recent name="C:\Users\lsomb\Documents\Projetos\ProjetosJava\Testes\DesignPatterns\src\Creational\Factory\SimpleFactory" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">
@@ -132,8 +133,8 @@
       <list>
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Creational.Singleton.Singleton.Client" />
-        <item itemvalue="Application.Creational.Factory.AbstractFactory.Client" />
         <item itemvalue="Application.Creational.Factory.FactoryMethod.Client" />
+        <item itemvalue="Application.Creational.Factory.AbstractFactory.Client" />
         <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
@@ -149,7 +150,10 @@
       <workItem from="1702588208789" duration="13535000" />
       <workItem from="1702602804884" duration="1102000" />
       <workItem from="1702850673653" duration="16706000" />
-      <workItem from="1703001404222" duration="3410000" />
+      <workItem from="1703001404222" duration="4314000" />
+      <workItem from="1703021256965" duration="1038000" />
+      <workItem from="1703022507040" duration="1512000" />
+      <workItem from="1703025063475" duration="1388000" />
     </task>
     <task id="LOCAL-00001" summary="Simple Factory">
       <created>1702592353383</created>
@@ -200,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702917153290</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Builder">
+      <created>1703005111434</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1703005111434</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,6 +225,7 @@
     <MESSAGE value="Factory Method img" />
     <MESSAGE value="Singleton" />
     <MESSAGE value="MonoState" />
-    <option name="LAST_COMMIT_MESSAGE" value="MonoState" />
+    <MESSAGE value="Builder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Builder" />
   </component>
 </project>
